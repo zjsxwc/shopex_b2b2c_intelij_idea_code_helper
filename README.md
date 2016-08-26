@@ -1,0 +1,1 @@
+# shopex_b2b2c_intelij_idea_code_helper
